@@ -1,0 +1,33 @@
+.subheading-section-header {
+  padding: 6px 10px;
+  font-size: var(--font-ui-small);
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid var(--background-modifier-border);
+  margin-top: 10px;
+}
+
+.subheading-section-container {
+  padding-bottom: 8px;
+}
+
+.subheading-mention-item {
+  display: flex;
+  padding: 0 15px;
+  font-size: var(--font-ui-smaller);
+  color: var(--text-normal);
+  align-items: center;
+}
+
+.subheading-heading-indicator {
+  color: var(--text-accent);
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.subheading-mention-item:hover {
+  background-color: var(--background-modifier-hover);
+  cursor: pointer;
+}

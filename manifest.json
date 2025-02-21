@@ -1,0 +1,9 @@
+{
+  "id": "subheading-links",
+  "name": "Subheading Links",
+  "version": "1.0.0",
+  "description": "Extends unlinked mentions to include subheadings from other notes",
+  "author": "notori",
+  "authorUrl": "https://github.com/n0tori",
+  "isDesktopOnly": false
+}
